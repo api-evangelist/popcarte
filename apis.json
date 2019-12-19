@@ -1,0 +1,53 @@
+{
+    "name": "Popcarte",
+    "description": "Envoyez des cartes personnalis\u00e9es avec vos meilleures photos ! Popcarte vous permet d'envoyer de vraies cartes postales, cartes photo, cartes de voeux, cartes d'anniversaire, faire-part mariage et naissance, cartes d'amour et d'amiti\u00e9 \u00e0 vos proches. De...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1268-popcarte.jpg",
+    "tags": [
+        "have api",
+        "iphone",
+        "photos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/popcarte\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Popcarte",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1268-popcarte.jpg",
+            "humanURL": "http:\/\/www.popcarte.com\/developers\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/popcarte-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/popcarte-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.popcarte.com\/developers\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/popcarte"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/popcarte"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/popcarte"
+        }
+    ]
+}
